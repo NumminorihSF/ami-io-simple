@@ -1,0 +1,31 @@
+{
+  "name": "ami-io-simple",
+  "version": "0.1.2",
+  "description": "An more easy access to AMI api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumminorihSF/ami-io-simple.git"
+  },
+  "keywords": [
+    "interface",
+    "iojs",
+    "ami",
+    "asterisk",
+    "manager",
+    "node",
+    "simple"
+  ],
+  "author": "Konstantine Petryaev <numminorihsf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NumminorihSF/ami-io-simple/issues"
+  },
+  "homepage": "https://github.com/NumminorihSF/ami-io-simple#readme",
+  "dependencies": {
+    "ami-io": "^0.1.5"
+  }
+}
